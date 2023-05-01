@@ -1,0 +1,16 @@
+
+
+table,th {
+  
+  border-collapse: collapse;
+
+}
+
+th,td {
+  background-color: '#CF4B28';
+  padding: 10px;
+}
+
+tbody tr td{
+  text-align: center;
+}
